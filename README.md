@@ -1,3 +1,7 @@
+[참고]  
+위키북스 : 파이썬 웹 스크레이핑 완벽 가이드  
+파이썬 웹 스크레이핑 스터디 1기
+
 # stockInfoApp
  주식 정보를 조회하는 streamlit 웹 앱  
 https://codenerchoux-stockinfoapp-stock-info-app-jfync3.streamlit.app/   
